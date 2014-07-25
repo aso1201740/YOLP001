@@ -28,7 +28,7 @@ public class MainActivity extends Activity implements LocationListener {
 		// TODO 自動生成されたメソッド・スタブ
 		super.onResume();
 
-		mMapView = new MapView(this,"dj0zaiZpPTdhZ1hERlB4QU01ViZzPWNvbnN1bWVyc2VjcmV0Jng9Mjgdj0zaiZpPTdhZ1hERlB4QU01ViZzPWNvbnN1bWVyc2VjcmV0Jng9Mjg-");
+		mMapView = new MapView(this,"dj0zaiZpPTdhZ1hERlB4QU01ViZzPWNvbnN1bWVyc2VjcmV0Jng9Mjg-");
 
 		mMapView.setBuiltInZoomControls(true);
 
